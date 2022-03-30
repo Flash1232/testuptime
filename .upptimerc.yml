@@ -11,15 +11,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: 
-  baseUrl: /testuptime
+  cname: status.oxv.io
+  #baseUrl: /testuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Basically Wordle. Status
+  theme: dark
   introTitle: "Basically Wordle. Status Page"
   introMessage: Watch the current status.
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
-      href: /
+      href: /testuptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
