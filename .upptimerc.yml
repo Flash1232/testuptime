@@ -15,13 +15,13 @@ status-website:
   #baseUrl: /testuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Basically Wordle. Status
-  theme: dark
+  theme: night
   introTitle: "Basically Wordle. Status Page"
   introMessage: Watch the current status.
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
-      href: /testuptime
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
