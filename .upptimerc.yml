@@ -9,7 +9,7 @@ sites:
     url: https://wordlepvp-backend.oxv.io
     expectedStatusCodes:
       - 404
-    __dangerous__body_down_if_text_missing: "Whitelabel Error Page"
+    #__dangerous__body_down_if_text_missing: "Whitelabel Error Page"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
