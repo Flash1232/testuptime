@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
+    "time": 411,
     "timeDay": 364,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/wordlepvp-backend.oxv.io",
     "slug": "wordle-pv-p-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 582,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "uptime": "96.43%",
+    "uptimeDay": "77.69%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
+    "time": 461,
+    "timeDay": 513,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 321
     }
   }
 ]
