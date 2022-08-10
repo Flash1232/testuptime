@@ -1,7 +1,7 @@
 url: https://wordlepvp-frontend.oxv.io
-status: up
-code: 200
-responseTime: 653
-lastUpdated: 2022-08-10T05:38:21.905Z
+status: down
+code: 502
+responseTime: 18870
+lastUpdated: 2022-08-10T10:28:15.605Z
 startTime: Wed Mar 30 2022 14:17:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
