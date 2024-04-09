@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordlepvp-frontend.oxv.io.ico",
     "slug": "wordle-pv-p-frontend",
     "status": "down",
-    "uptime": "78.20%",
+    "uptime": "78.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-04-08": 3,
+      "2024-04-09": 3,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -137,8 +138,7 @@
       "2023-05-03": 387,
       "2023-04-29": 796,
       "2023-04-12": 315,
-      "2023-04-11": 1186,
-      "2023-04-10": 1440
+      "2023-04-11": 1186
     }
   },
   {
@@ -147,7 +147,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordlepvp-backend.oxv.io.ico",
     "slug": "wordle-pv-p-backend",
     "status": "down",
-    "uptime": "78.85%",
+    "uptime": "78.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -158,7 +158,8 @@
     "timeMonth": 0,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2024-04-08": 3,
+      "2024-04-09": 3,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -273,8 +274,7 @@
       "2023-05-03": 387,
       "2023-04-29": 795,
       "2023-04-12": 314,
-      "2023-04-11": 1186,
-      "2023-04-10": 1440
+      "2023-04-11": 1186
     }
   }
 ]
