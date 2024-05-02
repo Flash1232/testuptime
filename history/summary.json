@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordlepvp-frontend.oxv.io.ico",
     "slug": "wordle-pv-p-frontend",
     "status": "down",
-    "uptime": "75.84%",
+    "uptime": "75.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.20%",
-    "time": 684,
+    "uptimeYear": "66.93%",
+    "time": 685,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 736,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-05-01": 3,
+      "2024-05-02": 3,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -156,8 +157,7 @@
       "2023-07-08": 39,
       "2023-06-28": 81,
       "2023-05-29": 355,
-      "2023-05-12": 60,
-      "2023-05-03": 387
+      "2023-05-12": 60
     }
   },
   {
@@ -166,18 +166,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordlepvp-backend.oxv.io.ico",
     "slug": "wordle-pv-p-backend",
     "status": "down",
-    "uptime": "76.47%",
+    "uptime": "76.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.59%",
+    "uptimeYear": "68.32%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 525,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-05-01": 3,
+      "2024-05-02": 3,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -311,8 +312,7 @@
       "2023-07-09": 56,
       "2023-07-08": 39,
       "2023-06-28": 80,
-      "2023-05-12": 60,
-      "2023-05-03": 387
+      "2023-05-12": 60
     }
   }
 ]
